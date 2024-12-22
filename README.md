@@ -1,4 +1,5 @@
 # FabricProxy-Lite
+updated to 1.21.4
 
 Same as [FabricProxy](https://github.com/OKTW-Network/FabricProxy) but only support velocity and using Fabric-API handle
 velocity packet.
