@@ -1,5 +1,5 @@
 # FabricProxy-Lite
-
+build test
 Same as [FabricProxy](https://github.com/OKTW-Network/FabricProxy) but only support velocity and using Fabric-API handle
 velocity packet.
 
